@@ -1,0 +1,7 @@
+{
+  "name": "SKV Quiz",
+  "description": "A mobile-first BSE Odisha Class 10 quiz app featuring 7 subjects with two branches each, chapter-wise 20 MCQs, 2 educational mini-games, and daily board exam study tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
